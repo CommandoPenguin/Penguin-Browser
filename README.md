@@ -4,7 +4,7 @@ Please do edit this as you please.
 
 In order to edit the source, you need the PyQt5 package. 
 In order to install this, you need python and pip installed on your system. To check this, open Windows Command, and do the type the following:
-python --version
+python --version and 
 pip --version
 
 If you get a version number for both commands, you're good to go. If not, you need to install Python and pip first.
